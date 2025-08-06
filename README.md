@@ -1,5 +1,5 @@
 # my_api
-A simple REST API built with Flask in Python
+A Simple REST API built with Express.js in Node.js
 const express = require('express');
 const cors = require('cors');
 const app = express();
